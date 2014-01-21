@@ -244,3 +244,6 @@ Congratulations! Your web app should now be up and running on Heroku. Open it in
 
     :::term  
     $ heroku open
+
+
+![Codeship status](https://www.codeship.io/projects/abcd7d90-64fc-0131-4d17-2e1760457f02/status)
